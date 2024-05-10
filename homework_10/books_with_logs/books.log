@@ -1,0 +1,17 @@
+2024-04-17 16:25:38,502 - INFO - User requested to write books to file.
+2024-04-17 16:26:50,390 - WARNING - User entered invalid input.
+2024-04-17 16:26:52,366 - INFO - User requested to write books to file.
+2024-04-17 16:28:27,255 - WARNING - User entered invalid input.
+2024-04-17 16:28:28,750 - INFO - User requested to add a book.
+2024-04-17 16:28:35,254 - INFO - User requested to display books list.
+2024-04-17 16:29:00,566 - INFO - User exited the program.
+2024-04-17 16:34:06,991 - INFO - User requested to display books list.
+2024-04-17 16:35:42,288 - INFO - User requested to display books list.
+2024-04-17 16:35:44,616 - INFO - User exited the program.
+2024-04-17 16:35:50,671 - WARNING - User entered invalid input.
+2024-04-17 16:35:52,615 - WARNING - User entered invalid input.
+2024-04-17 16:35:54,167 - WARNING - User entered invalid input.
+2024-04-17 16:35:55,336 - INFO - User requested to add a book.
+2024-04-17 16:36:00,160 - INFO - User requested to display books list.
+2024-04-17 16:36:03,328 - WARNING - User entered invalid input.
+2024-04-17 16:36:09,553 - INFO - User exited the program.
