@@ -1,3 +1,7 @@
 2024-04-17 16:38:12,952 - INFO - User requested to display books list.
 2024-04-17 16:38:13,775 - INFO - User requested to add a book.
 2024-04-17 16:38:17,471 - INFO - User exited the program.
+2024-05-10 12:27:07,876 - INFO - User requested to display books list.
+2024-05-10 12:27:10,072 - WARNING - User entered invalid input.
+2024-05-10 12:27:12,019 - WARNING - User entered invalid input.
+2024-05-10 12:27:13,427 - INFO - User exited the program.

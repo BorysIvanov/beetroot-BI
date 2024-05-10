@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="53aadc5c-6f5a-43b7-a4a5-c72e27d6300e" name="Changes" comment="test" />
+    <list default="true" id="53aadc5c-6f5a-43b7-a4a5-c72e27d6300e" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/homework_11/phonebook.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_10/books_with_logs/books_logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/homework_10/books_with_logs/books_logs.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,15 +43,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.books.executor": "Run",
+    "Python.create_file.executor": "Run",
+    "Python.oops.executor": "Run",
+    "Python.open_file.executor": "Run",
+    "Python.phonebook_app.executor": "Run",
+    "Python.square.executor": "Run",
+    "Python.utils.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Set357-Laptop/AppData/Local/Programs/Python/Python312",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -71,6 +88,7 @@
       <workItem from="1714107498313" duration="27000" />
       <workItem from="1714583021393" duration="9000" />
       <workItem from="1715330171059" duration="358000" />
+      <workItem from="1715331810216" duration="1587000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -89,5 +107,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/beetroot_BI$utils.coverage" NAME="utils Coverage Results" MODIFIED="1715333225410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_10/books_with_logs" />
+    <SUITE FILE_PATH="coverage/beetroot_BI$create_file.coverage" NAME="create_file Coverage Results" MODIFIED="1715333208620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_10" />
+    <SUITE FILE_PATH="coverage/beetroot_BI$square.coverage" NAME="square Coverage Results" MODIFIED="1715333264308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_10" />
+    <SUITE FILE_PATH="coverage/beetroot_BI$books.coverage" NAME="books Coverage Results" MODIFIED="1715333219351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_10/books_with_logs" />
+    <SUITE FILE_PATH="coverage/beetroot_BI$open_file.coverage" NAME="open_file Coverage Results" MODIFIED="1715333256253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_10" />
+    <SUITE FILE_PATH="coverage/beetroot_BI$phonebook_app.coverage" NAME="phonebook_app Coverage Results" MODIFIED="1715333293947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_11" />
+    <SUITE FILE_PATH="coverage/beetroot_BI$oops.coverage" NAME="oops Coverage Results" MODIFIED="1715333250304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_10" />
   </component>
 </project>
